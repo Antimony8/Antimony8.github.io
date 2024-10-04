@@ -105,7 +105,7 @@
 
         <section id="resume" class="resume">
             <h2>Resume/CV</h2>
-            <p>You can view my full competitive resume and career stats by visiting my <a href="https://smashers.app/ultimate/player/Antimony" target="_blank">Smasher profile here</a>.</p>
+            <p>You can view my full competitive resume and career stats by visiting my <a href="https://smashers.app/ultimate/player/Antimony?id=S1030265" target="_blank">Smasher profile here</a>.</p>
         </section>
 
         <section id="contact" class="contact">
